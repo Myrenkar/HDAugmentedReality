@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:HDAugmentedRealityDemo.xcodeproj">
+      location = "self:HDAugmentedReality.xcodeproj">
    </FileRef>
 </Workspace>
